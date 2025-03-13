@@ -8,7 +8,7 @@ import Restaurant from "./Components/Restaurant";
 
 
 
-// Header section: Let's build it
+// Header section: Let's build it !
 
 function App(){
     
