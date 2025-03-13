@@ -13,8 +13,8 @@ export default function Restaurant(){
         const swiggyAPI = "https://www.swiggy.com/dapi/restaurants/list/v5?lat=28.7040592&lng=77.10249019999999&is-seo-homepage-enabled=true";
         const response = await fetch(proxyServer+swiggyAPI);
         const data = await response.json();
-        setRestData(data?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
-     }
+        setRestData(data?.data?.cards[1].card?.card?.gridElements?.infoWithStyle?.restaurants);
+     }  
 
      fetchData();
     },[])

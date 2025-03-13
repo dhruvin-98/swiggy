@@ -27,7 +27,7 @@
 81C:\Users\DHRUVIN\Desktop\swiggy\node_modules\@parcel\watcher\src\PromiseRunner.hh133848871428619050 0
 54C:\Users\DHRUVIN\Desktop\swiggy\node_modules\env-paths133848871425483498 1
 84C:\Users\DHRUVIN\Desktop\swiggy\node_modules\@parcel\transformer-babel\src\config.js133848871426528647 0
-36C:\Users\DHRUVIN\Desktop\swiggy\dist133851459925974410 1
+36C:\Users\DHRUVIN\Desktop\swiggy\dist133863170319476146 1
 96C:\Users\DHRUVIN\Desktop\swiggy\node_modules\posthtml\node_modules\dom-serializer\lib\index.d.ts133848871427243783 0
 84C:\Users\DHRUVIN\Desktop\swiggy\node_modules\@parcel\packager-svg\lib\SVGPackager.js133848871424793503 0
 94C:\Users\DHRUVIN\Desktop\swiggy\node_modules\htmlnano\lib\modules\normalizeAttributeValues.mjs133848871429824564 0
@@ -54,7 +54,7 @@
 80C:\Users\DHRUVIN\Desktop\swiggy\node_modules\react-dom\profiling.react-server.js133849646026353703 0
 92C:\Users\DHRUVIN\Desktop\swiggy\node_modules\entities\lib\esm\generated\decode-data-xml.d.ts133848871429254157 0
 85C:\Users\DHRUVIN\Desktop\swiggy\node_modules\node-gyp-build-optional-packages\LICENSE133848871424399962 0
-42C:\Users\DHRUVIN\Desktop\swiggy\src\App.js133851454868607341 0
+42C:\Users\DHRUVIN\Desktop\swiggy\src\App.js133863143030290158 0
 79C:\Users\DHRUVIN\Desktop\swiggy\node_modules\utility-types\dist\mapped-types.js133848871425613550 0
 86C:\Users\DHRUVIN\Desktop\swiggy\node_modules\@parcel\core\test\fixtures\common-targets133848871431015279 1
 44C:\Users\DHRUVIN\Desktop\swiggy\node_modules133849735694393092 1
@@ -67,7 +67,7 @@
 90C:\Users\DHRUVIN\Desktop\swiggy\node_modules\tailwindcss\dist\resolve-config-BIFUA2FY.d.ts133848872463385228 0
 42C:\Users\DHRUVIN\Desktop\swiggy\testing.js133850603360309775 0
 101C:\Users\DHRUVIN\Desktop\swiggy\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\030-config.md133848871429324156 0
-60C:\Users\DHRUVIN\Desktop\swiggy\src\Components\Restaurant.js133851459923822510 0
+60C:\Users\DHRUVIN\Desktop\swiggy\src\Components\Restaurant.js133863170317435664 0
 75C:\Users\DHRUVIN\Desktop\swiggy\node_modules\type-fest\source\value-of.d.ts133848871428824181 0
 64C:\Users\DHRUVIN\Desktop\swiggy\node_modules\cosmiconfig\LICENSE133848871424409950 0
 46C:\Users\DHRUVIN\Desktop\swiggy\src\Components133851454129600442 1
@@ -1490,7 +1490,7 @@
 66C:\Users\DHRUVIN\Desktop\swiggy\node_modules\posthtml\package.json133848871425353508 0
 63C:\Users\DHRUVIN\Desktop\swiggy\node_modules\posthtml\readme.md133848871425633556 0
 94C:\Users\DHRUVIN\Desktop\swiggy\node_modules\@swc\helpers\src\_possible_constructor_return.mjs133848871432752276 0
-59C:\Users\DHRUVIN\Desktop\swiggy\dist\index.61d3354a.css.map133851459925624405 0
+59C:\Users\DHRUVIN\Desktop\swiggy\dist\index.61d3354a.css.map133863170319066118 0
 73C:\Users\DHRUVIN\Desktop\swiggy\node_modules\posthtml\types\posthtml.d.ts133848871425928650 0
 99C:\Users\DHRUVIN\Desktop\swiggy\node_modules\posthtml\node_modules\htmlparser2\lib\FeedHandler.d.ts133848871427063782 0
 95C:\Users\DHRUVIN\Desktop\swiggy\node_modules\htmlnano\lib\modules\removeRedundantAttributes.cjs133848871428189020 0
@@ -2066,7 +2066,7 @@
 86C:\Users\DHRUVIN\Desktop\swiggy\node_modules\entities\lib\generated\encode-html.js.map133848871428854173 0
 89C:\Users\DHRUVIN\Desktop\swiggy\node_modules\caniuse-lite\data\features\css-textshadow.js133848871431515277 0
 90C:\Users\DHRUVIN\Desktop\swiggy\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp133848871424619980 0
-55C:\Users\DHRUVIN\Desktop\swiggy\dist\index.61d3354a.css133851459925594426 0
+55C:\Users\DHRUVIN\Desktop\swiggy\dist\index.61d3354a.css133863170319046129 0
 88C:\Users\DHRUVIN\Desktop\swiggy\node_modules\htmlnano\lib\modules\removeOptionalTags.cjs133848871428089084 0
 91C:\Users\DHRUVIN\Desktop\swiggy\node_modules\lmdb\node_modules\node-addon-api\noexcept.gypi133848871425523496 0
 97C:\Users\DHRUVIN\Desktop\swiggy\node_modules\lmdb\node_modules\node-addon-api\tools\conversion.js133848871427173779 0
@@ -4601,8 +4601,8 @@
 60C:\Users\DHRUVIN\Desktop\swiggy\node_modules\.bin\semver.cmd133848871436447731 0
 60C:\Users\DHRUVIN\Desktop\swiggy\node_modules\.bin\semver.ps1133848871436447731 0
 76C:\Users\DHRUVIN\Desktop\swiggy\node_modules\.bin\update-browserslist-db.ps1133848871436447731 0
-54C:\Users\DHRUVIN\Desktop\swiggy\dist\index.7271efb6.js133851459925924371 0
-58C:\Users\DHRUVIN\Desktop\swiggy\dist\index.7271efb6.js.map133851459925964456 0
-47C:\Users\DHRUVIN\Desktop\swiggy\dist\index.html133851459925594426 0
+54C:\Users\DHRUVIN\Desktop\swiggy\dist\index.7271efb6.js133863170319426080 0
+58C:\Users\DHRUVIN\Desktop\swiggy\dist\index.7271efb6.js.map133863170319466086 0
+47C:\Users\DHRUVIN\Desktop\swiggy\dist\index.html133863170319046129 0
 55C:\Users\DHRUVIN\Desktop\swiggy\dist\swiggy.59712999.js133848873513242412 0
 59C:\Users\DHRUVIN\Desktop\swiggy\dist\swiggy.59712999.js.map133848873513272459 0
